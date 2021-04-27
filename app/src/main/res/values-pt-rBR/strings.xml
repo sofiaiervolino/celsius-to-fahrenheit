@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Celsius to Fahrenheit - SmartConv</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">SmartConv - Celsius to Fahrenheit</string>
+    <string name="nav_header_subtitle">contact@technibyte.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!--Menu items' names-->
+    <string name="menu_home">SmartConv</string>
+    <string name="menu_math_behind">Math Behind</string>
+    <string name="menu_about">About</string>
+
+    <!-- Home Screen Strings - #Start-->
+    <string name="celsius_hint">Celsius</string>
+    <string name="fahrenheit_hint">Fahrenheit</string>
+
+    <!--Keyboard strings-->
+    <string name="number0">0</string>
+    <string name="number1">1</string>
+    <string name="number2">2</string>
+    <string name="number3">3</string>
+    <string name="number4">4</string>
+    <string name="number5">5</string>
+    <string name="number6">6</string>
+    <string name="number7">7</string>
+    <string name="number8">8</string>
+    <string name="number9">9</string>
+    <string name="decimalSign">.</string>
+    <string name="clearAll">C</string>
+
+    <!-- Math Behind Screen Strings - #Start-->
+    <string name="math_behind_title">Math Expressions</string>
+    <string name="celsius_to_fahrenheit">Celsius to Fahrenheit conversion:</string>
+    <string name="fahrenheit_to_celsius">Fahrenheit to Celsius conversion:</string>
+    <string name="celsius_to_fahrenheit_formula">fahrenheit is equal to celsius multiplied
+        by 1.8000 + 32.00</string>
+    <string name="fahrenheit_to_celsius_formula">celsius is equal to fahrenheit minus 32,
+        divided by 1.8000</string>
+
+    <!-- About Screen Strings - #Start-->
+    <string name="about_text1">Programming: Alessandro Angelozi
+\n\nVisual Design: Sofia Iervolino</string>
+
+    <string name="about_text2">This app aims to make life easier,
+\n\nand we hope it can be useful to you.
+</string>
+
+    <string name="about_text3">If you have any suggestions,
+\n\nplease, let us know.
+</string>
+
+    <string name="about_text4">Thanks for choosing our app!
+\n\nVisit our website:
+</string>
+
+    <string name="technibyte_logo">TechniByte\'s Logo</string>
+    <string name="about_url"><u>technibyte.com</u></string>
+    <string name="celsius_to_fahrenheit_logo">Celsius to Fahrenheit logo</string>
+</resources>
